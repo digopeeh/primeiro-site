@@ -1,5 +1,13 @@
 # Primeiro site
-Meu primeiro portfólio usando flutuações, projeto que deu inicio aos meus estudos em front-end.
+
+## Meu primeiro projeto.
+
+### O que eu utilizei:
+
+- Html5
+- Css3
+- Javascript
+- Responsive Web Design 70%
 
 ## Desktop
 
